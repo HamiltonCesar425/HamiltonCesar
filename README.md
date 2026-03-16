@@ -50,6 +50,12 @@ Python • OCR • Data Validation • Document Processing
 
 ---
 
+### Credit Card Fraud Detection ML Pipeline
+
+Machine learning pipeline for detecting fraudulent credit card transactions, including preprocessing, model training, evaluation and prediction API.
+
+---
+
 ## 🧠 Current Focus
 
 Atualmente aprofundando conhecimentos em:
