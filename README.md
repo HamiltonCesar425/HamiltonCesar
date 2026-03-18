@@ -56,6 +56,13 @@ Machine learning pipeline for detecting fraudulent credit card transactions, inc
 
 ---
 
+### Responsible AI Study (NotebookLM)
+
+Research notebook sobre ética em decisões automatizadas e governança de Inteligência Artificial.
+
+---
+
+
 ## 🧠 Current Focus
 
 Atualmente aprofundando conhecimentos em:
