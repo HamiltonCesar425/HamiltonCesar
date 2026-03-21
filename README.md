@@ -1,12 +1,24 @@
 # 👨‍💻 Hamilton Cesar
 
-Engenharia de Dados | Machine Learning | Sistemas Inteligentes
+Engenheiro de Dados em formação focado na construção de **pipelines inteligentes, sistemas orientados a eventos e aplicações de Machine Learning com aplicação prática e observabilidade**.
 
-Desenvolvedor em formação e focado na construção de **pipelines de dados, sistemas orientados a eventos e aplicações de ML com foco em aplicação real e observabilidade**.
+---
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-active-green)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-active-blue)
+![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 
 ---
 
-## 🚀 Projetos em Destaque
+## 💡 O que eu construo
+
+- Sistemas que transformam dados em evidência técnica
+- Pipelines modulares com foco em escalabilidade
+- Aplicações com logging, testes e observabilidade
+
+---
+
+## 👉 Ver projeto completo
 
 ### 📌 DeviceTrace AI
 Sistema inteligente para análise de perda de sinal e geração de evidência técnica para dispositivos móveis.
@@ -69,4 +81,7 @@ Construir sistemas robustos que transformam dados em decisões, com foco em:
 
 ---
 
-> “Aprender profundamente é construir algo real.”
+🚀 Aberto a oportunidades em Engenharia de Dados, ML e sistemas inteligentes.
+
+---
+
