@@ -1,123 +1,71 @@
-# 👨‍💻 Data & AI Engineer in Progress
+# 👨‍💻 Hamilton Cesar
+
+Engenharia de Dados | Machine Learning | Sistemas Inteligentes
+
+Desenvolvedor em formação e focado na construção de **pipelines de dados, sistemas orientados a eventos e aplicações de ML com foco em aplicação real e observabilidade**.
 
 ---
 
-> Building real-world AI systems while learning Data Science and Machine Learning.
+## 🚀 Projetos em Destaque
+
+### 📌 DeviceTrace AI
+Sistema inteligente para análise de perda de sinal e geração de evidência técnica para dispositivos móveis.
+
+- Pipeline modular (Collector → Processor → Analyzer → Report)
+- Exportação em JSON e PDF
+- Testes com cobertura (~84%)
+- Foco em LGPD e uso ético de dados
 
 ---
 
-Desenvolvedor em formação focado em **Python, Machine Learning e Engenharia de Dados**, com interesse especial em **análise de risco, detecção de fraude, automação de dados e aplicações de IA em ambientes reais**.
+### 📊 Financial IA
+Sistema de análise financeira com foco em inferência e observabilidade.
 
-Meu objetivo é construir **sistemas inteligentes, auditáveis e orientados a dados**, aplicando boas práticas de engenharia, observabilidade e conformidade.
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 TokenGuardBot
-
-Bot para Telegram que realiza **análise de tokens BEP-20**, integrando scanner da Binance Smart Chain para identificar riscos em contratos inteligentes.
-
-**Stack**
-Python • Web3 • APIs • Telegram Bot
+- Métricas com Prometheus
+- Monitoramento com Grafana
+- Pipeline analítico
 
 ---
 
-### 📊 financial_ia
-
-Motor de **análise de risco financeiro baseado em modelos estatísticos**, com pipeline de backtesting, API de predição e observabilidade com Prometheus e Grafana.
-
-**Stack**
-Python • Machine Learning • Docker • Prometheus • Grafana
+### 🧾 OCR Pipeline
+Pipeline para extração e validação de dados estruturados a partir de documentos.
 
 ---
 
-### 🕵️ fraud_detection
+### 🤖 TokenGuardBot
+Bot para análise e monitoramento de tokens com foco em segurança e detecção de riscos.
 
-Sistema de **detecção de fraude em transações financeiras utilizando Machine Learning**, com pipeline completo de treinamento e API para inferência.
-
-**Stack**
-Python • Scikit-learn • Pandas • FastAPI
-
----
-
-### 📄 OCR Pipeline
-
-Pipeline modular em Python para **extração, parsing estruturado e validação de dados de documentos utilizando OCR**, incluindo verificação de conformidade com LGPD.
-
-**Stack**
-Python • OCR • Data Validation • Document Processing
+- Análise automatizada de tokens
+- Estrutura modular para integração com APIs
+- Foco em segurança e validação de dados
+- Base para evolução em monitoramento em tempo real
 
 ---
 
-### Credit Card Fraud Detection ML Pipeline
+## 🧠 Stack Técnica
 
-Machine learning pipeline for detecting fraudulent credit card transactions, including preprocessing, model training, evaluation and prediction API.
-
----
-
-### Responsible AI Study (NotebookLM)
-
-Research notebook sobre ética em decisões automatizadas e governança de Inteligência Artificial.
-
----
-
-
-## 🧠 Current Focus
-
-Atualmente aprofundando conhecimentos em:
-
-* Machine Learning aplicado a **risk modeling**
-* **Engenharia de dados e pipelines de ML**
-* **Observabilidade de sistemas de IA**
-* Arquitetura de APIs para modelos preditivos
-* **Conformidade e governança de dados (LGPD)**
+- Python (Pandas, Scikit-learn)
+- Machine Learning
+- Data Pipelines
+- APIs (em evolução)
+- Observabilidade (Prometheus, Grafana)
+- Testes (pytest, coverage)
 
 ---
 
-## 🛠 Tech Stack
+## 📈 Objetivo
 
-**Linguagens**
+Construir sistemas robustos que transformam dados em decisões, com foco em:
 
-Python
-
-**Data & Machine Learning**
-
-Pandas
-Scikit-learn
-NumPy
-
-**APIs e Backend**
-
-FastAPI
-REST APIs
-
-**Infraestrutura**
-
-Docker
-Prometheus
-Grafana
-
-**Ferramentas**
-
-Git
-GitHub
-VS Code
-
----
-
-## 📈 Filosofia de desenvolvimento
-
-* Código limpo e modular
-* Projetos orientados a **problemas reais**
-* Versionamento e documentação profissional
-* Observabilidade e reprodutibilidade de modelos
+- Engenharia de Dados
+- Machine Learning aplicado
+- Arquiteturas escaláveis
 
 ---
 
 ## 📫 Contato
 
-GitHub: https://github.com/HamiltonCesar425
+- LinkedIn: (https://linkedin.com/in/hamilton-cesar-santos-a1290421)
 
 ---
 
